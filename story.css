@@ -1,0 +1,40 @@
+footer {
+    margin-top: 20px;
+    text-align: justify;
+    width: 100%;
+    bottom: 5px;
+    background-color: #242F44;
+    z-index: 5;
+}
+footer h3 {
+    position: relative;
+    display: inline-block;
+    color: white;
+    font-size: 14px;
+    background-color: #242F44;
+}
+
+figure {
+    width: 100%;
+}
+
+h3 {
+    padding: 0 5px;
+}
+
+h3:first-child {
+    padding-left: 30px;
+}
+img {
+    height: 400px;
+    width: 100%;
+}
+.text {
+    height: 100%;
+    padding: 15px;
+}
+@media only screen and (max-height: 600px){
+    #personal{
+        height: 500px;
+    }
+}
