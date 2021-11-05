@@ -1,12 +1,7 @@
-<<<<<<< Updated upstream
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-=======
-body, html, main {
-    min-width: 0;
->>>>>>> Stashed changes
 }
 
 .bg-img {
