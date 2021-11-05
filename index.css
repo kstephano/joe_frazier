@@ -1,17 +1,9 @@
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-=======
-body, html, main {
-    min-width: 0;
->>>>>>> Stashed changes
 }
 
->>>>>>> home
 .bg-img {
     display: block;
     width: 80%;
@@ -24,10 +16,6 @@ body, html, main {
 .intro {
     color: black;
     padding: 20px;
-}
-
-.intro p {
-    text-align: center;
 }
 
 @keyframes fadeIn {
